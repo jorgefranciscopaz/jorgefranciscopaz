@@ -146,6 +146,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jorgefranciscopaz/jorgefranciscopaz/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/jorgefranciscopaz/jorgefranciscopaz/blob/output/snake.svg" alt="Snake animation" />
 
 ###
