@@ -92,5 +92,3 @@
 </div>
 
 ---
-
-<p align="center">💬 Open to collaborating on software development and agile project management projects. Let's connect!</p>
